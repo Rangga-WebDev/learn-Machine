@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
+```
 
 # 📊 Machine Learning Practicum
 
